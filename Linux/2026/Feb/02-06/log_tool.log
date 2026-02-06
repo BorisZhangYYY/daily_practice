@@ -1,0 +1,53 @@
+[2026-02-06 13:56:34] Start log_tool
+[2026-02-06 13:56:45] Start log_tool
+[2026-02-06 13:56:48] Disk Used: Filesystem
+[2026-02-06 13:56:48] Start log_tool
+[2026-02-06 13:58:38] Start log_tool
+[2026-02-06 13:58:39] Disk Used: 80K
+[2026-02-06 13:58:40] Start log_tool
+[2026-02-06 13:58:45] Permission test passed
+[2026-02-06 13:58:45] Directory test passed
+[2026-02-06 13:58:45] Archive and move completed,        0 logs archived and moved
+[2026-02-06 13:58:45] Start log_tool
+[2026-02-06 14:02:00] Start log_tool
+[2026-02-06 14:02:02] Permission test passed
+[2026-02-06 14:02:02] Directory test passed
+[2026-02-06 14:02:02] Archive and move completed,        0 logs archived and moved
+[2026-02-06 14:02:03] Start log_tool
+[2026-02-06 14:03:59] Start log_tool
+[2026-02-06 14:04:01] Disk Used: 80K
+[2026-02-06 14:04:01] Start log_tool
+[2026-02-06 14:04:03] Permission test passed
+[2026-02-06 14:04:03] Directory test passed
+[2026-02-06 14:04:03] Archive and move completed,        0 logs archived and moved
+[2026-02-06 14:04:03] Start log_tool
+[2026-02-06 14:04:10] Delete archives older than 30 days completed
+[2026-02-06 14:04:10] Start log_tool
+[2026-02-06 14:29:47] Start log_tool
+[2026-02-06 14:29:49] Disk Used: 80K
+[2026-02-06 14:29:49] Start log_tool
+[2026-02-06 14:29:51] Permission test passed
+[2026-02-06 14:29:51] Directory test passed
+[2026-02-06 14:29:52] Archive and move completed, 13 logs archived and moved
+[2026-02-06 14:29:52] Start log_tool
+[2026-02-06 14:29:56] Permission test passed
+[2026-02-06 14:29:56] Directory test passed
+[2026-02-06 14:29:56] No logs found to archive.
+[2026-02-06 14:29:56] Start log_tool
+[2026-02-06 14:29:59] Delete archives older than 30 days completed
+[2026-02-06 14:29:59] Start log_tool
+[2026-02-06 14:31:01] New config is set: keep_days=10
+[2026-02-06 14:31:01] Start log_tool
+[2026-02-06 14:31:07] Exit log_tool
+[2026-02-06 14:35:28] Start log_tool
+[2026-02-06 14:35:30] No archives older than 30 days found.
+[2026-02-06 14:35:30] Start log_tool
+[2026-02-06 14:35:33] Permission test passed
+[2026-02-06 14:35:33] Directory test passed
+[2026-02-06 14:35:33] No logs found to archive.
+[2026-02-06 14:35:33] Start log_tool
+[2026-02-06 14:35:37] Disk Used: 28K
+[2026-02-06 14:35:37] Start log_tool
+[2026-02-06 14:36:31] Start log_tool
+[2026-02-06 14:36:32] Start log_tool
+[2026-02-06 14:36:36] Exit log_tool
