@@ -32,6 +32,7 @@ class Solution:
         # 结果返回
         result = "".join(w)
         print(result)
+        return result
 
 if __name__ == "__main__":
     A = Solution()
