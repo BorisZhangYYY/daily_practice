@@ -14,5 +14,5 @@
 解释："leeto" 没有在 "leetcode" 中出现，所以返回 -1 。
  
 提示：
-1 <= haystack.length, needle.length <= 104
+1 <= haystack.length, needle.length <= 10^4
 haystack 和 needle 仅由小写英文字符组成
