@@ -1,3 +1,10 @@
+# cache
 __pycache__/
-draft.py
+.DS_Store
+
+# env
 .venv/
+.vscode/
+
+# file
+draft.py
